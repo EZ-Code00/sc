@@ -4,11 +4,7 @@
 # UP REPO UBUNTU
 <pre><code>apt update && apt upgrade -y && update-grub && sleep 2 && reboot</pre></code>
 
-### INSTALL SCRIPT >1
-<pre><code>apt install curl -y && apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && apt install -y bzip2 gzip coreutils screen curl unzip && wget -q [https://raw.githubusercontent.com/Y16ZR/EZCODE/main/setup.sh](https://raw.githubusercontent.com/EZ-Code00/sc/main/setup.sh) && chmod +x setup.sh && ./setup.sh
-</code></pre>
-
-### INSTALL SCRIPT >2
+### INSTALL SCRIPT
 <pre><code>sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/EZ-Code00/sc/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
 </code></pre>
 
