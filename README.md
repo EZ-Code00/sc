@@ -1,7 +1,7 @@
 
 # CHANGE AUTO ROOT VPS(only for vps not user root)
 <pre><code>sudo su</code></pre>
-<pre><code>wget -qO- -O aksesroot.sh https://raw.githubusercontent.com/EZ-Code00/sc/refs/heads/main/aksesroot.sh</code></pre>
+<pre><code>wget -qO- -O aksesroot.sh https://raw.githubusercontent.com/EZ-Code00/sc/refs/heads/main/aksesroot.sh && bash aksesroot.sh</code></pre>
 
 # UP REPO DEBIAN
 <pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot</code></pre>
