@@ -1,17 +1,13 @@
 
-# CHANGE AUTO ROOT VPS(only for vps not user root)
+### CHANGE AUTO ROOT VPS(only for vps not user root)
 <pre><code>sudo su</code></pre>
 <pre><code>wget -qO- -O aksesroot.sh https://raw.githubusercontent.com/EZ-Code00/sc/refs/heads/main/aksesroot.sh && bash aksesroot.sh</code></pre>
 
-# UP REPO DEBIAN
+### UP REPO DEBIAN
 <pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot</code></pre>
-# UP REPO UBUNTU
+### UP REPO UBUNTU
 <pre><code>apt update && apt upgrade -y && update-grub && sleep 2 && reboot</pre></code>
 
-### INSTALL SCRIPT
+# INSTALL SCRIPT
 <pre><code>sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/EZ-Code00/sc/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
-</code></pre>
-
-### UPDATE SCRIPT 
-<pre><code>wget -q https://raw.githubusercontent.com//EZCODE/main/menu/update.sh && chmod +x update.sh && ./update.sh
 </code></pre>
