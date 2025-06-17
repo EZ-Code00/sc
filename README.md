@@ -18,9 +18,9 @@
 <pre><code>sudo su</code></pre>
 <pre><code>wget -qO- -O aksesroot.sh https://raw.githubusercontent.com/EZ-Code00/sc/refs/heads/main/aksesroot.sh && bash aksesroot.sh</code></pre>
 
-### UP REPO DEBIAN
+### UPDATE REPO DEBIAN
 <pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot</code></pre>
-### UP REPO UBUNTU
+### UPDATE REPO UBUNTU
 <pre><code>apt update && apt upgrade -y && update-grub && sleep 2 && reboot</pre></code>
 
 ### INSTALL SCRIPT
