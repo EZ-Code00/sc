@@ -31,6 +31,10 @@
 <pre><code>sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/EZ-Code00/sc/main/setup2.sh && chmod +x setup2.sh && sed -i -e 's/\r$//' setup2.sh && screen -S setup2 ./setup2.sh
 </code></pre>
 
+### INSTALL SCRIPT 3
+<pre><code>apt update -y && apt install -y wget curl jq && wget -q https://raw.githubusercontent.com/EZ-Code00/sc/main/setup2.sh && chmod +x setup2.sh && screen -S setup2 ./setup2.sh 
+</code></pre>
+
 ### TESTED ON OS 
 - UBUNTU 20.04.05 - 24.04
 - DEBIAN 10 - 12
