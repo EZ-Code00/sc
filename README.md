@@ -24,10 +24,6 @@
 <pre><code>apt update && apt upgrade -y && update-grub && sleep 2 && reboot</pre></code>
 
 ### INSTALL SCRIPT
-<pre><code>apt update -y && apt install -y wget curl jq && wget -q https://raw.githubusercontent.com/EZ-Code00/sc/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh 
-</code></pre>
-
-### INSTALL SCRIPT 2
 <pre><code>wget -q https://raw.githubusercontent.com/EZ-Code00/sc/main/install -O install && chmod +x install && ./install
 
 </code></pre>
@@ -58,4 +54,5 @@
 
 ### CONTACT EZCODE <br>
 <a href="https://t.me/EzcodeShop" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
+
 
