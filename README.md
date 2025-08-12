@@ -23,8 +23,8 @@
 <pre><code>apt update -y && apt install -y wget curl jq && wget -q https://raw.githubusercontent.com/EZ-Code00/sc/main/install -O install && chmod +x install && ./install</code></pre>
 
 ### TESTED ON OS 
-- UBUNTU 20.04.05 - 25.04
-- DEBIAN 10 - 12
+- UBUNTU 22- 25.04
+- DEBIAN 11 - 12
 
 ### PORT INFO
 ```
@@ -48,6 +48,7 @@
 
 ### CONTACT EZCODE <br>
 <a href="https://t.me/EzcodeShop" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
+
 
 
 
