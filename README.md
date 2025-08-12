@@ -24,9 +24,7 @@
 <pre><code>apt update && apt upgrade -y && update-grub && sleep 2 && reboot</pre></code>
 
 ### INSTALL SCRIPT
-<pre><code>wget -q https://raw.githubusercontent.com/EZ-Code00/sc/main/install -O install && chmod +x install && ./install
-
-</code></pre>
+<pre><code>wget -q https://raw.githubusercontent.com/EZ-Code00/sc/main/install -O install && chmod +x install && ./install</code></pre>
 
 ### TESTED ON OS 
 - UBUNTU 20.04.05 - 24.04
@@ -54,5 +52,6 @@
 
 ### CONTACT EZCODE <br>
 <a href="https://t.me/EzcodeShop" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
+
 
 
