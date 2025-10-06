@@ -42,15 +42,16 @@
 - Add 1GB SwapRAM
 - Support Custom Path Xray
 - Xray Core Official by XTLS
+- Change Xray Core Version
 - Support SSH Enhanced
-- Auto Lock/Ban Multilogin User
-- Limit IP SSH
-- Limit IP & Quota Xray
-- Bot Telegram Admin
-- Autobackup via Bot Telegram
+- On/Off Auto Lock/Ban Multilogin User
+- On/Off Limit IP SSH
+- On/Off Limit IP & Quota Xray
+- On/Off Bot Telegram Admin
+- On/Off Autobackup via Bot Telegram
 - Autoreboot Every 5.00 AM
 - Auto Update Script
-- Clear Log & Cache
+- Clear Log & Cache Every 10 minutes
 
 ### PORT INFO
 ```
