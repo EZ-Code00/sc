@@ -23,7 +23,7 @@
 - Always Use HTTPS : OFF
 ```
 
-### HOW TO INSTALL SCRIPT
+### HOW TO INSTALL SCRIPT👇
 ### Step 1 :
 ### UPDATE REPO FOR DEBIAN
 <pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot</code></pre>
