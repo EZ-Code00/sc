@@ -13,25 +13,27 @@
 
 ### TESTED ON VPS
 - ✅Linux KVM✅
-- ✅Digital Ocean, Linode, Upcloud, Shinjiru, Myklenet.✅
+- ✅Digital Ocean, Linode, Upcloud, Shinjiru, Myklenet, Pq Hosting.✅
 
 ### SETTING CLOUDFLARE
 ```
 - SSL/TLS : FULL
-- SSL/TLS Recommender : OFF
 - GRPC : ON
 - WEBSOCKET : ON
 - Always Use HTTPS : OFF
-- UNDER ATTACK MODE : OFF
 ```
-
+### STEP 1 :
 ### UPDATE REPO DEBIAN
 <pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot</code></pre>
 ### UPDATE REPO UBUNTU
 <pre><code>apt update && apt upgrade -y && update-grub && sleep 2 && reboot</pre></code>
 
+### STEP 2 :
 ### INSTALL SCRIPT
 <pre><code>apt update -y && apt install -y wget curl jq screen && wget -q https://raw.githubusercontent.com/EZ-Code00/sc/main/install -O install && chmod +x install && screen -S install ./install</code></pre>
+
+### If the network is lost or closed from the terminal during script installation, run this command:
+<pre><code>screen -r install</code></pre>
 
 ### ADDITIONAL FEATURES
 - Add 1GB SwapRAM
@@ -72,6 +74,7 @@
 
 ### CONTACT EZCODE <br>
 <a href="https://t.me/EzcodeShop" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
+
 
 
 
