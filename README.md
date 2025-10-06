@@ -22,13 +22,15 @@
 - WEBSOCKET : ON
 - Always Use HTTPS : OFF
 ```
-### STEP 1 :
-### UPDATE REPO DEBIAN
+
+### HOW TO INSTALL SCRIPT:
+### Step 1
+### UPDATE REPO FOR DEBIAN
 <pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot</code></pre>
-### UPDATE REPO UBUNTU
+### UPDATE REPO FOR UBUNTU
 <pre><code>apt update && apt upgrade -y && update-grub && sleep 2 && reboot</pre></code>
 
-### STEP 2 :
+### Step 2 :
 ### INSTALL SCRIPT
 <pre><code>apt update -y && apt install -y wget curl jq screen && wget -q https://raw.githubusercontent.com/EZ-Code00/sc/main/install -O install && chmod +x install && screen -S install ./install</code></pre>
 
