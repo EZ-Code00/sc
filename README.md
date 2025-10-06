@@ -35,6 +35,9 @@
 ### If the network is lost or closed from the terminal during script installation, run this command:
 <pre><code>screen -r install</code></pre>
 
+### PICTURE
+![Image](https://github.com/user-attachments/assets/fb81b0bf-43ef-4f39-981e-d4c5f2c710e9)
+
 ### ADDITIONAL FEATURES
 - Add 1GB SwapRAM
 - Support Custom Path Xray
@@ -74,6 +77,7 @@
 
 ### CONTACT EZCODE <br>
 <a href="https://t.me/EzcodeShop" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
+
 
 
 
