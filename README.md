@@ -36,7 +36,7 @@
 <pre><code>screen -r install</code></pre>
 
 ### PICTURE
-![Image](https://github.com/user-attachments/assets/fb81b0bf-43ef-4f39-981e-d4c5f2c710e9)
+![Image](https://github.com/user-attachments/assets/42f23410-9cd3-49e5-9a3f-288f2722d0ab)
 
 ### ADDITIONAL FEATURES
 - Add 1GB SwapRAM
@@ -77,6 +77,7 @@
 
 ### CONTACT EZCODE <br>
 <a href="https://t.me/EzcodeShop" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
+
 
 
 
