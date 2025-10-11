@@ -12,8 +12,8 @@
 </p>
 
 ### TESTED ON VPS
-- ✅Linux KVM✅
-- ✅Digital Ocean, Linode, Upcloud, Shinjiru, Myklenet, Pq Hosting.✅
+- ✅Linux KVM
+- ✅Digital Ocean, Linode, Upcloud, Shinjiru, Myklenet, Pq Hosting
 
 ### SETTING CLOUDFLARE
 ```
@@ -22,6 +22,11 @@
 - WEBSOCKET : ON
 - Always Use HTTPS : OFF
 ```
+
+### BEFORE INSTALLATION
+This script is for sale.
+- Register your ipvps
+- Pointing your ipvps
 
 ### HOW TO INSTALL SCRIPT👇
 ### Step 1 :
@@ -54,6 +59,7 @@
 - Autoreboot Every 5.00 AM
 - Auto Update Script
 - Clear Log & Cache Every 10 minutes
+- Pointing Domain
 
 ### PORT INFO
 ```
