@@ -13,7 +13,7 @@
 
 ### TESTED ON VPS
 - ✅Linux KVM
-- ✅Digital Ocean, Linode, Upcloud, Shinjiru, Myklenet, Pq Hosting
+- ✅Digital Ocean, Linode, Upcloud, Shinjiru, Myklenet, Pq Hosting, Icore.
 
 ### SETTING CLOUDFLARE
 ```
