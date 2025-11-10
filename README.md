@@ -43,7 +43,7 @@ This script is for sale.
 <pre><code>screen -r install</code></pre>
 
 ### PICTURE
-![Image](https://github.com/user-attachments/assets/42f23410-9cd3-49e5-9a3f-288f2722d0ab)
+![Image](https://github.com/user-attachments/assets/f79759c4-a77b-46b3-b88f-ef3fc939870c)
 
 ### ADDITIONAL FEATURES
 - Add 1GB SwapRAM
@@ -88,6 +88,7 @@ This script is for sale.
 
 ### CONTACT EZCODE <br>
 <a href="https://t.me/EzcodeShop" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
+
 
 
 
