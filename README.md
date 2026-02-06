@@ -37,7 +37,12 @@ This script is for sale.
 
 ### Step 2 :
 ### INSTALL SCRIPT VERSION 1
-<pre><code>apt update -y && apt install -y wget curl jq screen sudo && wget -q https://raw.githubusercontent.com/EZ-Code00/sc/main/install -O install && chmod +x install && screen -S install ./install</code></pre>
+<pre><code>apt update -y && apt install -y wget curl jq screen sudo && wget -q https://raw.githubusercontent.com/EZ-Code00/sc/main/install -O install && chmod +x install && screen -S install ./install</code></pre>
+
+### Step 2 :
+### INSTALL SCRIPT VERSION 2
+<pre><code>apt update -y && apt install -y wget curl jq screen sudo && wget -q https://raw.githubusercontent.com/EZ-Code00/sc/main/install2 -O install && chmod +x install && screen -S install ./install</code></pre>
+
 
 ### If the network is lost or closed from the terminal during script installation, run this command:
 <pre><code>screen -r install</code></pre>
@@ -88,6 +93,7 @@ This script is for sale.
 
 ### CONTACT EZCODE <br>
 <a href="https://t.me/EzcodeShop" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
+
 
 
 
