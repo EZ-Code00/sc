@@ -102,14 +102,14 @@ This script is for sale.
 - OpenVPN UDP               : 2200              
 - Nginx Webserver           : 81
 - Badvpn Udp                : 7100, 7200, 7300
-- XRAY Vmess WS TLS         : 443                         
-- XRAY Vmess WS None TLS    : 80                   
+- XRAY Vmess WS TLS         : 443
+- XRAY Vmess WS None TLS    : 80 
 - XRAY Vless WS TLS         : 443
-- XRAY Vless Http TLS       : 443                 
+- XRAY Vless Http TLS       : 443   
 - XRAY Vless Xhttp TLS      : 443         
-- XRAY Vless Xhttp None TLS : 80                  
+- XRAY Vless Xhttp None TLS : 80        
 - XRAY Vless WS None TLS    : 80
-- XRAY Vless Http None TLS  : 80                 
+- XRAY Vless Http None TLS  : 80
 - XRAY Trojan WS TLS        : 443
 - XRAY Trojan WS None TLS   : 80
 ```                  
