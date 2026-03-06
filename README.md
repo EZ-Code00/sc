@@ -109,7 +109,7 @@ This script is for sale.
 - XRAY Vless Http TLS       : 443
 - XRAY Vless Http None TLS  : 80
 - XRAY Vless Xhttp TLS      : 443         
-- XRAY Vless Xhttp None TLS : 80        
+- XRAY Vless Xhttp None TLS : 80
 - XRAY Trojan WS TLS        : 443
 - XRAY Trojan WS None TLS   : 80
 ```                  
