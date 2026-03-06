@@ -93,25 +93,25 @@ This script is for sale.
 ### PORT INFO SCRIPT VERSION 2(Xray Mod)
 ```
 >>> Service & Port
-- Open SSH                : 22                
-- Dropbear                : 109, 143    
-- UDP Custom              : 1-65535   
-- SSH Websocket           : 8080
-- SSH Websocket Tls       : 8443                             
-- OpenVPN TCP             : 1194            
-- OpenVPN UDP             : 2200              
-- Nginx Webserver         : 81
-- Badvpn Udp              : 7100, 7200, 7300
-- XRAY Vmess WS TLS       : 443                         
-- XRAY Vmess WS None TLS  : 80                   
-- XRAY Vless WS TLS       : 443
-- XRAY Vless Http TLS     : 443                 
-- XRAY Vless Xhttp TLS    : 443         
-XRAY Vless Xhttp None TLS : 80                  
-- XRAY Vless WS None TLS  : 80
-- XRAY Vless Http None TLS: 80                 
-- XRAY Trojan WS TLS      : 443
-- XRAY Trojan WS None TLS : 80
+- Open SSH                  : 22                
+- Dropbear                  : 109, 143    
+- UDP Custom                : 1-65535   
+- SSH Websocket             : 8080
+- SSH Websocket Tls         : 8443                             
+- OpenVPN TCP               : 1194            
+- OpenVPN UDP               : 2200              
+- Nginx Webserver           : 81
+- Badvpn Udp                : 7100, 7200, 7300
+- XRAY Vmess WS TLS         : 443                         
+- XRAY Vmess WS None TLS    : 80                   
+- XRAY Vless WS TLS         : 443
+- XRAY Vless Http TLS       : 443                 
+- XRAY Vless Xhttp TLS      : 443         
+- XRAY Vless Xhttp None TLS : 80                  
+- XRAY Vless WS None TLS    : 80
+- XRAY Vless Http None TLS  : 80                 
+- XRAY Trojan WS TLS        : 443
+- XRAY Trojan WS None TLS   : 80
 ```                  
 
 ### CONTACT EZCODE <br>
