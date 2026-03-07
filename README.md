@@ -53,6 +53,8 @@ This script is for sale.
 - Add 1GB SwapRAM
 - Support Custom Path Xray
 - Xray Core Official by XTLS
+- Xray Core Mod by @EzcodeShop
+- Support Multipath Xray
 - Change Xray Core Version
 - Support SSH Enhanced
 - On/Off Auto Lock/Ban Multilogin User
