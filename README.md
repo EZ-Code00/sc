@@ -40,7 +40,9 @@ This script is for sale.
 <pre><code>apt update -y && apt install -y wget curl jq screen sudo && wget -q https://raw.githubusercontent.com/EZ-Code00/sc/main/install -O install && chmod +x install && screen -S install ./install</code></pre>
 -->
 
-### INSTALL SCRIPT VERSION 2 (XRAY MOD)
+<!--### INSTALL SCRIPT VERSION 2 (XRAY MOD)-->
+
+### INSTALL SCRIPT
 <pre><code>apt update -y && apt install -y wget curl jq screen sudo && wget -q https://raw.githubusercontent.com/EZ-Code00/sc/main/install2 -O install && chmod +x install && screen -S install ./install</code></pre>
 
 
@@ -52,11 +54,9 @@ This script is for sale.
 
 ### ADDITIONAL FEATURES
 - Add 1GB SwapRAM
-- Support Custom Path Xray
-- Xray Core Official by XTLS
+- Support Custom Path Xray Vless
 - Xray Core Mod by @EzcodeShop
-- Support Multipath Xray
-- Change Xray Core Version
+- Change/Update Xray Core Version
 - Support SSH Enhanced
 - On/Off Auto Lock/Ban Multilogin User
 - On/Off Limit IP SSH
@@ -67,8 +67,11 @@ This script is for sale.
 - Auto Update Script
 - Clear Log & Cache Every 10 minutes
 - Pointing Domain
+- Factory Reset User VPN
+- Change Script Colour
+- Register IPVPS Menu (VIP)
 
-### PORT INFO SCRIPT VERSION 1(Xray Official)
+<!--### PORT INFO SCRIPT VERSION 1(Xray Official)
 ```
 >>> Service & Port
 - Open SSH                : 22                
@@ -92,9 +95,9 @@ This script is for sale.
 - XRAY Trojan WS TLS      : 443
 - XRAY Trojan WS None TLS : 80
 ```                  
+-->
 
-### PORT INFO SCRIPT VERSION 2(Xray Mod)
-```
+### INFO SCRIPT PORT```
 >>> Service & Port
 - Open SSH                  : 22                
 - Dropbear                  : 109, 143    
