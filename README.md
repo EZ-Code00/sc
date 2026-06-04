@@ -50,7 +50,7 @@ This script is for sale.
 <pre><code>screen -r install</code></pre>
 
 ### PICTURE MAIN MENU
-<img width="2560" height="2560" alt="Image" src="https://github.com/user-attachments/assets/2758d1fa-c1ac-4359-af1f-d6523f64cb17" />
+<img width="2560" height="2560" alt="Image" src="https://github.com/user-attachments/assets/6ca80da3-0a41-4ea6-8538-14a87961ff24" />
 
 ### ADDITIONAL FEATURES
 - Add 1GB SwapRAM
