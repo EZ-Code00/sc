@@ -101,7 +101,8 @@ This script is for sale.
 ```
 -->
 
-### INFO SCRIPT PORT```
+### INFO SCRIPT PORT
+```
 >>> Service & Port
 - Open SSH                  : 22                
 - Dropbear                  : 109, 143    
