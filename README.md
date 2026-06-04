@@ -13,7 +13,7 @@
 
 ### TESTED ON VPS
 - ✅Linux KVM
-- ✅Digital Ocean, Linode, Upcloud, Shinjiru, Myklenet, Pq Hosting, Icore.
+- ✅Digital Ocean, Linode, Upcloud, Shinjiru, Myklenet, Pq Hosting, Icore, Evoxt, Hostinger.
 
 ### SETTING CLOUDFLARE
 ```
@@ -50,7 +50,7 @@ This script is for sale.
 <pre><code>screen -r install</code></pre>
 
 ### PICTURE MAIN MENU
-![Image](https://github.com/user-attachments/assets/82c9ab56-ff30-4082-9551-915a6e9f7a9b)
+<img width="2560" height="2560" alt="Image" src="https://github.com/user-attachments/assets/2758d1fa-c1ac-4359-af1f-d6523f64cb17" />
 
 ### ADDITIONAL FEATURES
 - Add 1GB SwapRAM
