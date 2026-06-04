@@ -53,6 +53,7 @@ This script is for sale.
 <pre><code>screen -r install</code></pre>
 
 ### PICTURE MAIN MENU
+<img width="2220" height="2416" alt="Image" src="https://github.com/user-attachments/assets/e4efb57e-e122-4ed4-a9b0-41c747c3b3a6" />
 
 
 ### ADDITIONAL FEATURES
@@ -124,5 +125,5 @@ This script is for sale.
 - XRAY Trojan WS TLS        : 443
 - XRAY Trojan WS None TLS   : 80
 ```
-### CONTACT EZCODE <br>
+### CONTACT EZCODE SHOP <br>
 <a href="https://t.me/EzcodeShop" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
