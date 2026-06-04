@@ -36,11 +36,14 @@ This script is for sale.
 <pre><code>apt update && apt upgrade -y && update-grub && sleep 2 && reboot</pre></code>
 
 ### Step 2 :
-<!-- ### INSTALL SCRIPT VERSION 1 (XRAY OFFICIAL)
+<!--
+### INSTALL SCRIPT VERSION 1 (XRAY OFFICIAL)
 <pre><code>apt update -y && apt install -y wget curl jq screen sudo && wget -q https://raw.githubusercontent.com/EZ-Code00/sc/main/install -O install && chmod +x install && screen -S install ./install</code></pre>
 -->
 
-<!--### INSTALL SCRIPT VERSION 2 (XRAY MOD)-->
+<!--
+### INSTALL SCRIPT VERSION 2 (XRAY MOD)
+-->
 
 ### INSTALL SCRIPT
 <pre><code>apt update -y && apt install -y wget curl jq screen sudo && wget -q https://raw.githubusercontent.com/EZ-Code00/sc/main/install2 -O install && chmod +x install && screen -S install ./install</code></pre>
@@ -71,7 +74,8 @@ This script is for sale.
 - Change Script Colour
 - Register IPVPS Menu (VIP)
 
-<!--### PORT INFO SCRIPT VERSION 1(Xray Official)
+<!--
+### PORT INFO SCRIPT VERSION 1(Xray Official)
 ```
 >>> Service & Port
 - Open SSH                : 22                
@@ -94,7 +98,7 @@ This script is for sale.
 - XRAY Trojan gRPC        : 443
 - XRAY Trojan WS TLS      : 443
 - XRAY Trojan WS None TLS : 80
-```                  
+```
 -->
 
 ### INFO SCRIPT PORT```
