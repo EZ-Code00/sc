@@ -36,8 +36,9 @@ This script is for sale.
 <pre><code>apt update && apt upgrade -y && update-grub && sleep 2 && reboot</pre></code>
 
 ### Step 2 :
-### INSTALL SCRIPT VERSION 1 (XRAY OFFICIAL)
+<!-- ### INSTALL SCRIPT VERSION 1 (XRAY OFFICIAL)
 <pre><code>apt update -y && apt install -y wget curl jq screen sudo && wget -q https://raw.githubusercontent.com/EZ-Code00/sc/main/install -O install && chmod +x install && screen -S install ./install</code></pre>
+-->
 
 ### INSTALL SCRIPT VERSION 2 (XRAY MOD)
 <pre><code>apt update -y && apt install -y wget curl jq screen sudo && wget -q https://raw.githubusercontent.com/EZ-Code00/sc/main/install2 -O install && chmod +x install && screen -S install ./install</code></pre>
