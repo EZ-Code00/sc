@@ -124,7 +124,5 @@ This script is for sale.
 - XRAY Trojan WS TLS        : 443
 - XRAY Trojan WS None TLS   : 80
 ```
-
-
-
-### CONTACT EZCODE @EzcodeShop
+### CONTACT EZCODE <br>
+<a href="https://t.me/EzcodeShop" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
