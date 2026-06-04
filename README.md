@@ -50,7 +50,7 @@ This script is for sale.
 <pre><code>screen -r install</code></pre>
 
 ### PICTURE MAIN MENU
-<img width="2560" height="2560" alt="Image" src="https://github.com/user-attachments/assets/6ca80da3-0a41-4ea6-8538-14a87961ff24" />
+
 
 ### ADDITIONAL FEATURES
 - Add 1GB SwapRAM
@@ -120,6 +120,6 @@ This script is for sale.
 - XRAY Trojan WS None TLS   : 80
 ```                  
 
-### CONTACT EZCODE
+### CONTACT EZCODE <br>
+<a href="https://t.me/EzcodeShop" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
 
-[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=Telegram&message=Click%20Here&color=blue)](https://t.me/EzcodeShop)
