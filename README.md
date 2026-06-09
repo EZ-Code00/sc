@@ -118,10 +118,9 @@ This script is for sale.
 - XRAY Vless WS TLS         : 443
 - XRAY Vless Xhttp TLS      : 443
 - XRAY Trojan WS TLS        : 443
-- XRAY Vmess WS None TLS    : 80,8880 
-- XRAY Vless WS None TLS    : 80,8880
-- XRAY Vless Http None TLS  : 80,8880         
-- XRAY Vless Xhttp None TLS : 80,8880
+- XRAY Vmess WS None TLS    : 80,8880
+- XRAY Vless WS None TLS    : 80,8880         
+- XRAY Vless Xhttp None TLS : 80,8880
 - XRAY Trojan WS None TLS   : 80,8880
 ```
 ### CONTACT EZCODE SHOP <br>
