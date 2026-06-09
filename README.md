@@ -115,15 +115,14 @@ This script is for sale.
 - Nginx Webserver           : 81
 - Badvpn Udp                : 7100, 7200, 7300
 - XRAY Vmess WS TLS         : 443
-- XRAY Vmess WS None TLS    : 80 
 - XRAY Vless WS TLS         : 443
-- XRAY Vless WS None TLS    : 80
-- XRAY Vless Http TLS       : 443
-- XRAY Vless Http None TLS  : 80
-- XRAY Vless Xhttp TLS      : 443         
-- XRAY Vless Xhttp None TLS : 80
+- XRAY Vless Xhttp TLS      : 443
 - XRAY Trojan WS TLS        : 443
-- XRAY Trojan WS None TLS   : 80
+- XRAY Vmess WS None TLS    : 80,8880 
+- XRAY Vless WS None TLS    : 80,8880
+- XRAY Vless Http None TLS  : 80,8880         
+- XRAY Vless Xhttp None TLS : 80,8880
+- XRAY Trojan WS None TLS   : 80,8880
 ```
 ### CONTACT EZCODE SHOP <br>
 <a href="https://t.me/EzcodeShop" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
